@@ -9,5 +9,5 @@ export const createUUID = () => {
 }
 
 export const getServerUrl = () => {
-    return 'ws://cargocam.herokuapp.com'//'ws://127.0.0.1:3434'
+    return 'wss://cargocam.herokuapp.com'//'ws://127.0.0.1:3434'
 }
